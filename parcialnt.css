@@ -1,0 +1,18 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.series-box {
+    width: 48%;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #333;
+}
